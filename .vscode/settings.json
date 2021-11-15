@@ -4,5 +4,7 @@
     "azureFunctions.pythonVenv": ".venv",
     "azureFunctions.projectLanguage": "Python",
     "azureFunctions.projectRuntime": "~3",
-    "debug.internalConsoleOptions": "neverOpen"
+    "debug.internalConsoleOptions": "neverOpen",
+    "appService.defaultWebAppToDeploy": "/subscriptions/760f1f50-a81e-498f-b5d0-51c652cef094/resourceGroups/azure-migration-project/providers/Microsoft.Web/sites/azuremigrationapp1",
+    "appService.deploySubpath": "web"
 }
