@@ -67,6 +67,8 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | *Azure Service Bus*   |   Basic      |  0.05            |
 | *Azure Service Plan*    |     F1    |       Free       |
 | *Azure Storage Account*    |     Standard StorageV2 (general purpose v2)    |       0.021 per GB       |
+| *Sendgrid*    |     Free plan    |       Free       |
+| *App service plan for Azure function*    |     F1    |       Free       |
 
 
 ## Architecture Explanation
